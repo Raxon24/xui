@@ -1,3 +1,3 @@
 # XUI
 
-#### - XUI IPTV reseller Panel
+#### - XUI IPTV Reseller Panel
